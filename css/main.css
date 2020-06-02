@@ -30,7 +30,12 @@
   font-size: 18px;
   color: #fff;
   line-height: 1.1;
+  transition: all 0.2s ease-in-out;
   text-transform: uppercase;}
+  .main-logo:hover{
+    color: #fff;
+    margin-top: -5px;
+  }
 
 /*//////////////////////////////////////////////////////////////////
 [ Form ]*/
