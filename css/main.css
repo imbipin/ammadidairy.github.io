@@ -36,6 +36,9 @@
     color: #fff;
     margin-top: -5px;
   }
+  .whatsapp-icon{
+    margin-right: 10px;
+  }
 
 /*//////////////////////////////////////////////////////////////////
 [ Form ]*/
@@ -486,7 +489,8 @@
 }
 
 .how-btn1:hover {
-  background-color: #333333;
+  background-color: #009797;
+  color: #fff;
 }
 
 /*---------------------------------------------*/
